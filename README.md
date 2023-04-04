@@ -1,4 +1,1 @@
-Welcome 😄
-My self aadi i am technology enthusiastic and security architecture
-I like to build small project for frontend development
-I like to learn new technologies related terms nd programming 
+This is simple gui calculator which is made by html css and javascript 
